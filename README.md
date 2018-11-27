@@ -1,1 +1,1 @@
-# IBM HBCU Hacathon
+# IBM HBCU Hackathon
